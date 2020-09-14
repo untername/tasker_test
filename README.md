@@ -7,3 +7,5 @@ It was necessary to write an simple API for the tasker. Depending on the state, 
 Used:
 1) Django REST Framework;
 2) PostgreSQL (local)
+
+[Previously](https://github.com/untername/django_photo_test)
