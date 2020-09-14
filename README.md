@@ -1,6 +1,4 @@
-# tasker_test
-
-What is it?
+# What is it?
 
 This is a completed test task.
 
